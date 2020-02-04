@@ -1,4 +1,4 @@
-# Seismograph Activity 
+# Kail had Some Fun Yesterday 
 
 Welcome! In this project, you will build your own seismograph. This activity will teach how to use the @boardname@ to chart the strength of the acceleration. Let's get started! Project duration: 25 minutes.
 
